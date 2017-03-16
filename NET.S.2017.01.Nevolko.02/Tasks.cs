@@ -38,7 +38,7 @@ namespace Tasks
             return -1;
         }
         #endregion
-         
+          
         #region task2
         public static string Longest(string str1, string str2)
         {
