@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -81,7 +82,29 @@ namespace Tasks
                 }
             }
             return str = str_of_uniqs;
-        }  
+        }
+        #endregion
+
+        #region task3
+        public static int InsertIntToInt(int number1, int number2, int i, int j)
+        {
+            if (i > j || i < 0 || j < 0 || i > 32 || j > 32)
+            {
+                throw new ArgumentException();
+            }
+        
+             var bit_arr1 = new BitArray(new int[] { number1 });
+             var bit_arr2 = new BitArray(new int[] { number2 });
+
+             for (int k = i; k <= j; k++)
+             {
+                 bit_arr1[k] |= bit_arr2[k];
+             }
+
+             int[] buff = new int[1];
+             bit_arr1.CopyTo(buff, 0);
+             return buff[0];
+        }
         #endregion
     }
 }
