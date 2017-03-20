@@ -1,0 +1,9 @@
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01.Nevolko.02\UnitTestTasks2\bin\Debug\UnitTestTasks2.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01.Nevolko.02\UnitTestTasks2\bin\Debug\UnitTestTasks2.pdb
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01.Nevolko.02\UnitTestTasks2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01.Nevolko.02\UnitTestTasks2\bin\Debug\Tasks3.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01.Nevolko.02\UnitTestTasks2\bin\Debug\Tasks3.pdb
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01.Nevolko.02\UnitTestTasks2\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01.Nevolko.02\UnitTestTasks2\obj\Debug\DDT.UnitTestTasks2.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01.Nevolko.02\UnitTestTasks2\obj\Debug\UnitTestTasks2.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01.Nevolko.02\UnitTestTasks2\obj\Debug\UnitTestTasks2.pdb

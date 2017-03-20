@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TestCases>
+  <TestCase>
+    <number1>15</number1>
+    <number2>8</number2>
+    <i>0</i>
+    <j>30</j>
+    <ExpectedResult>15</ExpectedResult>
+</TestCase>
+  <TestCase>
+    <number1>15</number1>
+    <number2>8</number2>
+    <i>0</i>
+    <j>30</j>
+    <ExpectedResult>15</ExpectedResult>
+  </TestCase>
+</TestCases>
